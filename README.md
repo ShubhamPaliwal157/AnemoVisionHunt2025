@@ -21,6 +21,6 @@ std::cout << "Unravel a Song\n"; std::string input; std::cout << "\n\u266A Revea
 
 step 2: go to an online C++ runner like: https://www.programiz.com/cpp-programming/online-compiler/
 
-step 3: paste it the copied code there and run.
+step 3: paste in the copied code there and run.
 
 
